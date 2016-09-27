@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:fillViewport="true">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/light_tan"
+    android:orientation="vertical"
+   android:id="@+id/recipe_details_fragment_container"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recipe Name"
+        android:layout_gravity="center"
+        android:paddingTop="10dp"
+        android:id="@+id/recipeName"
+        android:textSize="45dp" />
+
+    <ImageView
+        android:layout_width="118dp"
+        android:layout_height="75dp"
+        android:id="@+id/recipePic"
+        android:contentDescription="@string/photo_of_recipe"
+        android:layout_weight="0.09" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingredients"
+        android:id="@+id/ingredients"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Instruction"
+        android:id="@+id/instruction" />
+
+
+</LinearLayout>
+</ScrollView>

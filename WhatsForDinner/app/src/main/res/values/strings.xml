@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Whats For Dinner?</string>
+
+    <!-- Text for Screen Headings -->
+    <string name="ingredients">Ingredients</string>
+    <string name="Directions">Cooking Directions</string>
+    <string name="recipes">Recipes</string>
+    <string name="grocery">Grocery Shopping</string>
+    <string name="meal">Meals</string>
+    <string name="newdish">New Dish</string>
+
+    <!-- Text for Meal Planning -->
+    <string name="breakfast">BREAKFAST</string>
+    <string name="lunch">LUNCH</string>
+    <string name="dinner">DINNER</string>
+    <string name="eatingout">EATING OUT</string>
+
+    <!-- Text for App Information Pop Up window -->
+    <string name="authorname">Jayashree Prabunathan</string>
+    <string name="version">Version 0.0</string>
+    <string name="help">www.whatsfordinner.help.com</string>
+    <string name="copyright">Copyright &#169; 2016 Jayashree Prabunathan</string>
+    <string name="hint_newdish">Enter Recipe Name</string>
+
+    <!-- Text used in Different layouts -->
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="item5">Item5</string>
+    <string name="item6">Item6</string>
+    <string name="item7">Item7</string>
+    <string name="item8">Item8</string>
+    <string name="item9">Item9</string>
+    <string name="item10">Item10</string>
+    <string name="save">SAVE THIS RECIPE</string>
+    <string name="plus_icon">+</string>
+    <string name="minus_icon">-</string>
+    <string name="Item_name">Item Name</string>
+    <string name="Qty">Qty.</string>
+
+    <string name="mon">Monday</string>
+    <string name="tues">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thurs">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="sun">Sunday</string>
+    <string name="photo_of_recipe">Photo of Recipe</string>
+
+
+</resources>
