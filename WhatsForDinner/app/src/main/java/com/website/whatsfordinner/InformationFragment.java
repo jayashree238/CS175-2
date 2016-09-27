@@ -53,7 +53,7 @@ public class InformationFragment extends Fragment{
         recipeIngredientsDetail = helper.getRecipeIngredientsArrayList(position);
         recipeInstructionDetail = helper.getRecipeInstruction(position);
 
-        for(int i=1;i < (recipeIngredientsDetail.size())/2;i=i+2){
+        for(int i=1;i < (recipeIngredientsDetail.size());i=i+2){
             Log.v(LOG_TAG, "Inside the Information Fragment:" + i);
             if(!recipeIngredientsDetail.get(i).equals("0")) {
 

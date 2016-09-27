@@ -183,7 +183,7 @@ public class DataHelper extends SQLiteOpenHelper {
 
         List<String> pieces = Arrays.asList("tomato", "onion", "garlic");
         List<String> pounds = Arrays.asList("chicken", "beef", "pork", "goat", "shrimp", "salmon");
-        List<String> cups = Arrays.asList("all-purpose", "wheat", "sugar", "salt", "pepper", "baking powder", "baking soda", "cheese");
+        List<String> cups = Arrays.asList("all-purpose", "wheat", "sugar", "salt", "pepper", "baking powder", "baking soda", "cheese", "flour");
         List<String> teaspoons = Arrays.asList("oil", "olive oil", "canola oil", "sunflower oil", "extra virgin oil oil");
 
         if(pieces.contains(item_name)){
@@ -201,33 +201,16 @@ public class DataHelper extends SQLiteOpenHelper {
         else{
             item_measure_type = "unit";
         }
-        //Log.v(LOG_TAG, "item_name in AddToGrocery:" + item_name);
-       // ArrayList<String> itemAndCount = itemsListForGrocery(recipe_name);
+
         HashMap<String, String> itemAndCount = itemsListForGrocery(recipe_name);
         String count = itemAndCount.get(item_name);
-        //Cursor c = db.rawQuery("SELECT COUNT FROM ")
+
         SQLiteDatabase db = getWritableDatabase();
         String insert = "INSERT or replace INTO " + GROCERY_LIST_TABLE_NAME + " (ITEM_NAME, COUNT, ITEM_MEASURE_TYPE) VALUES ('"+ item_name + "', '" + count + "', '" + item_measure_type +"');";
         db.execSQL(insert);
         db.close();
     }
 
-//    public void readFromGroceryList(){
-//        SQLiteDatabase db = getWritableDatabase();
-//        ArrayList<String> temp = new ArrayList<>();
-//        Cursor c = db.rawQuery("SELECT ITEM_NAME, COUNT(ITEM_NAME), ITEM_MEASURE_TYPE FROM grocery_list GROUP BY ITEM_NAME", null);
-//        //int count = c.getCount();
-//        for (int i = 0; i < c.getCount(); i++) {
-//            c.moveToPosition(i);
-//            temp.add(c.getString(0));
-//            Log.v(LOG_TAG, "RETREIVING FROM GROCERY LIST" + c.getString(0) + " count: " + c.getString(1));
-//        }
-//        c.moveToFirst();
-//
-//        c.close();
-//        db.close();
-//        //return temp;
-//    }
 
     public HashMap<String, String> itemsListForGrocery(String recipe_name){
         SQLiteDatabase db = getWritableDatabase();

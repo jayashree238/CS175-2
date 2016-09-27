@@ -31,7 +31,9 @@ public class Recipes extends Activity implements List_Fragment.ListFragmentItemC
         setContentView(R.layout.recipe_layout);
     }
 
-
+    public void BackToMainMenu(View v){
+        finish();
+    }
     @Override
     public void onListFragmentItemClick(int position) {
     }

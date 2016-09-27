@@ -38,6 +38,7 @@ public class List_Fragment extends ListFragment{
         void onListFragmentItemClick(int position);
     }
 
+
     @Override
     public void onAttach(Context context){
         super.onAttach(context);

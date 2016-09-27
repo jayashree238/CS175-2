@@ -30,7 +30,8 @@
         android:layout_height="75dp"
         android:id="@+id/recipePic"
         android:contentDescription="@string/photo_of_recipe"
-        android:layout_weight="0.09" />
+        android:layout_weight="0.09"
+        android:src="@drawable/none" />
 
     <TextView
         android:layout_width="wrap_content"
