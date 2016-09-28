@@ -1,2 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_c9415f0205f62349bf4d0c6e95343916d2234425/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8153866ea7841bdd1af40106e1f50c6d4863e2e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3bba45d2150588c0868509caf2065004dee56c75/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_d484fdc51d7bbcf270ff279babd30318031a8bca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8d8636dd567768ca53c4c46165d0ab0e4e81067">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b9808767a2f570681753f65c7b825e5c99886243/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bc5f9439522825b3114ac1edf1a1e1586fe53e43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_aedb8a1924eee890498c3ce7edaf9eb1805e2cf7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_9e7f6bd452ecefc089a46e3460b5a5914eeb96bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_08d5d0c13c765df926f66d926619d16f5614aa1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8ab2494eb8990f70fb7ea80fb4dad68b0aea6b54/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0d4d1974b881e22f0070bbaf66a70c5e5ab40481">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a85e03ebf01766574ba0d5fbd0d55d07669e9b67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_e99f15417685f9f3735ddf6e40be453d6b73066a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_416f47b63090997b9712a26eff73615edee9fc69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_4b28163cc1ff84eeefcff6c2743b92fbb2c0cfe8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_2950dc57799e1c3ef35977ac8f7e19d112f4f172/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0833188e42f907e3aa15e4430a3f4ad5163f9e52/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c060a0fe00d54e5bb446783ca5c55dc8b86c8f07/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_50f050b8b11c677b4e4049c7a469e11346b1aba5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/jayashreemadhanraj/Desktop/CS175-2/WhatsForDinner/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b9fe575bfe2c27708bc532626db4c3ebe708bf07/classes.dex" />
+    </item>
+
+</items>
